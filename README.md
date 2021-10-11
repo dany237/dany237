@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danielle Blanche
 - 👀 I’m interested in Computer Security, Machine Learning, Data Science 
-- 🌱 I’m currently learning Mathematica Logic and Mathematics Problem Solving
+- 🌱 I’m currently learning Mathematical Logic and Mathematics Problem Solving
 - 💞️ I’m looking to collaborate on build Design startup in Cameroon
 - 📫 How to reach me danielle.b.selambi@aims-cameroon.org
 
